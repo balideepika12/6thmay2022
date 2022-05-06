@@ -1,0 +1,8 @@
+e={1:['deepika','female','creator','50000','vizag','15-may-2016'],2:['ramy','female','writter','100000','vizayanagaram','12-july-2012']}
+x=int(input("enter employee number:"))
+print('name of the employee:',e[x][0])
+print('gender:',e[x][1])
+print('design:',e[x][2])
+print('salary:',e[x][3])
+print('city:',e[x][4])
+print('doj:',e[x][5])
