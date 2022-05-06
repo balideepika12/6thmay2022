@@ -1,0 +1,6 @@
+s={1:['deepika','female','mpcs','pass'],2:['ramya','female','mccs','pass']}
+x=int(input("enter student number:"))
+print('name of the student:',s[x][0])
+print('gender:',s[x][1])
+print('group:',s[x][2])
+print('result:',s[x][3])
